@@ -1,0 +1,24 @@
+{
+  "name": "node-files",
+  "version": "1.0.0",
+  "description": "'solve some problems'",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MountainGator/31-4-node-files.git"
+  },
+  "author": "Luke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MountainGator/31-4-node-files/issues"
+  },
+  "homepage": "https://github.com/MountainGator/31-4-node-files#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "fs": "^0.0.1-security",
+    "yarn": "^1.22.17"
+  }
+}
